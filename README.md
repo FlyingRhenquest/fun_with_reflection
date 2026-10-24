@@ -17,7 +17,7 @@ Wat?
 
 Chances are you only have a handful, maybe couple dozen or so structs
 you really need to serialize.  So what if you wrote a [templated
-function.](include/fwl/templated_function.h) We'll only do serialize
+function.](include/fwr/templated_function.h) We'll only do serialize
 for this example to keep things simple.
 
 
